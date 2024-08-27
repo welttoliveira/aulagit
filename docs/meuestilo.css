@@ -1,0 +1,13 @@
+/*selector elemento*/
+body {
+    background-color: rgb(154, 227, 45);
+}
+
+div{
+    /*
+    border-style: solid;
+    margin: 3%;*/
+    border-bottom: 1.8px solid;
+    margin: 3%;
+}
+
